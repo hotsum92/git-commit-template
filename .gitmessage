@@ -1,0 +1,10 @@
+
+#<------  Using a Maximum Of 50 Characters  ---->|
+#<------   Try To Limit Each Line to a Maximum Of 72 Characters   ---->|
+
+# ==== Prefix ====
+# fix: API不具合の修正
+# feat: キャッシュの追加
+# docs: setup説明の変更
+# refactor: 不要なコードの削除
+# test: APIテストの追加
